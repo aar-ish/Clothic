@@ -166,7 +166,7 @@ section {
   font-weight: bold;
   padding:0;
   margin-bottom: 0px;
-  text-shadow: 5px 6px 20px rgba(0, 0, 0, 0.311);
+  text-shadow: 5px 10px 20px rgba(79, 79, 79, 0.311);
 }
 .hero-text p {
   font-size: 16px;

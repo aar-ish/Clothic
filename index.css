@@ -166,7 +166,6 @@ section {
   font-weight: bold;
   padding:0;
   margin-bottom: 0px;
-  
   text-shadow: 5px 6px 7px rgb(0, 0, 0);
 }
 .hero-text p {
@@ -194,10 +193,14 @@ section {
   background-color: white;
   padding: 15px;
   border-radius: 1.5em ;
-  margin-left: 1em;
   height: 500px;
 }
-
+.card-container{
+  width: 295px;
+}
+.feature-text{
+  text-overflow: ellipsis;
+}
 .feature-text h1 {
   font-size: 22px;
   margin-bottom: 0em;
@@ -227,6 +230,9 @@ section {
 .feature-div .white{
   width:216px;
   border-radius: 1em;
+}
+.feature-div + .feature-div{
+ 
 }
 .coming-soon{
   background-image: url(./soonbg.jpeg);

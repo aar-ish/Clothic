@@ -196,7 +196,7 @@ section {
   height: 500px;
 }
 .card-container{
-  width: 295px;
+  width:85%;
   margin: 0 auto;
 }
 .feature-text{

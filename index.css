@@ -218,19 +218,24 @@ section {
 }
 .feature-div img{
   width: 180px;
+  margin: 0 auto;
 }
 .feature-div .one{
   width: 185px;
+  margin: 0 auto;
 }
 .feature-div .three{
   width:223px; 
+  margin: 0 auto;
 }
 .feature-div .four{
   width:230px;
+  margin: 0 auto;
 }
 .feature-div .white{
   width:216px;
   border-radius: 1em;
+  margin: 0 auto;
 }
 .coming-soon{
   background-image: url(./soonbg.jpeg);
